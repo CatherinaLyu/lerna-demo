@@ -1,6 +1,6 @@
 {
   "name": "demo1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "react-dom": "16.12.0"
   },
   "devDependencies": {
-    "webpack":"4.41.2"
+    "webpack": "4.41.2"
   },
   "gitHead": "858671e311f1bdd6968f64fbc2046f3bc01c4cc0"
 }

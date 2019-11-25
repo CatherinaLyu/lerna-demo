@@ -1,6 +1,6 @@
 {
   "name": "demo2",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
@@ -13,6 +13,6 @@
     "react-dom": "16.12.0"
   },
   "devDependencies": {
-    "webpack":"4.41.2"
+    "webpack": "4.41.2"
   }
 }
